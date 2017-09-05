@@ -1,6 +1,10 @@
 # Customer_Relationship_Management
 
-Technologies used:
+As part of the online course "Spring & Hibernate for Beginners", I have developed a website that allows me to add, update or delete a customer from the database.
+
+I have made use of Java Annotations all over the project.
+
+Technologies used are:
 1. Spring MVC
 2. Hibernate
 3. MySQL database
